@@ -205,6 +205,16 @@ The Power BI dashboard contains two pages.
 
 ---
 
+## 📸 Dashboard Preview
+
+### SLA Overview
+
+![SLA Overview](Visualizations/SLA_Overview.png)
+
+### Incident & Team Analysis
+
+![Incident & Team Analysis](Visualizations/Incident_Team_Analysis.png)
+
 # 💡 Key Business Questions
 
 This project answers questions such as:
@@ -246,6 +256,8 @@ IT Service Desk SLA Analytics/
 │
 ├── README.md
 └── .gitignore
+
+
 
 ## 🚀 Project Outcome
 The project provides an interactive analytical view of IT service desk operations by combining SLA compliance, incident volume, response time, resolution time, team performance, and customer satisfaction.
