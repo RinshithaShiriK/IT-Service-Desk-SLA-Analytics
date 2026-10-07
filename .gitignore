@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Python cache
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Python generated files
+*.egg-info/
+
+# Secrets / environment variables
+.env
+.env.*
+
+# Large generated files
+*.zip
+
+# Temporary Power BI backup files
+*.pbit
